@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm João Rafael 👋
 
-<!--
-**jrafa1607/jrafa1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & AI Security Architect, Ph.D. in Informatics and Knowledge Management, and university professor in São Paulo, Brazil.
 
-Here are some ideas to get you started:
+- 🔐 Cloud security across AWS, Azure, GCP, Huawei Cloud and OCI (IaC, IAM, Zero Trust, DevSecOps)
+- 🤖 AI security: guardrails for LLMs, agents and RAG
+- 🔎 Research on AI applied to security: OSINT, dorks with NLP, anomaly and fraud detection
+- 🎓 Professor at UNINOVE and guest professor at Mackenzie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured repositories
+- **AWS_Automations**: scripts and automations for AWS infrastructure management
+- **Cryptography_In_Python**: cryptography implementations and security resources
+- **DataScience_ML_AI**: data science, machine learning and NLP in Python and R
+- **Computer_Vision_In_Python**: computer vision techniques with machine learning
+- **Researcher-Guide**: tools and resources for researchers
+
+## Links
+[LinkedIn](https://www.linkedin.com/in/jrafa1607/) · [Credly](https://www.credly.com/users/jrafa1607) · [ORCID](https://orcid.org/0000-0003-3541-8354) · [Lattes](http://lattes.cnpq.br/2685037621033048)
