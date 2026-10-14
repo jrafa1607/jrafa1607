@@ -15,15 +15,10 @@
 
 ## 👨🏻‍💻 About Me
 
-👋 Hi! I'm **João Rafael**, a **Cloud & AI Security Architect** working as **DataSecOps Specialist** at **Grupo Amil**, protecting cloud and AI workloads in a healthcare environment with **80,000+ users**.
-
+👋 Hi! I'm **João Rafael**, a **Cloud & AI Security Architect** working as **DataSecOps Specialist**, protecting cloud and AI workloads.
 🔐 I'm passionate about **multicloud security**, **AI & LLM security**, **Zero Trust** and **AI applied to security**, from guardrails for agents and RAG to machine learning for fraud detection.
-
-🤖 Currently working on security controls for **LLMs, AI agents, RAG and enterprise copilots**, **Zero Trust** and **PIM**, **CNAPP** adoption and **ML models for fraud prevention**.
-
-💼 Previously built cloud security at **Claro Brasil** (via Global Hitss) across **150+ AWS accounts** and **50+ GCP projects**: landing zones with **Terraform** and **CloudFormation**, preventive guardrails in every account, IAM with Zero Trust and DevSecOps.
-
-🎓 **Ph.D.** and **M.Sc.** in Informatics and Knowledge Management (UNINOVE), **MBA** in Digital Forensics. Professor at **UNINOVE** and guest professor in the Data Engineering MBA at **Mackenzie**.
+🎓 **Ph.D.** and **M.Sc.** in Informatics and Knowledge Management (UNINOVE), **MBA** in Digital Forensics, **MBIS** in Information Security.
+🔬 Professor at **UNINOVE** and guest professor in the Data Engineering MBA at **Mackenzie**.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
