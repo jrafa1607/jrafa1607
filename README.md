@@ -16,7 +16,7 @@
 ## 👨🏻‍💻 About Me
 
 - 👋 Hi! I'm **João Rafael**, a **Cloud & AI Security Architect** working as **DataSecOps Specialist**, protecting cloud and AI workloads.
-- 🔐 I'm passionate about **Multicloud, AI & LLM security**, **ZeroTrust** and **AI Applied to security**, from guardrails for agents and RAG to ML for Fraud Detection.
+- 🔐 I'm passionate about **Multicloud, AI & LLM security** and **AI Applied to security**, from guardrails for Agents to ML for Fraud Detection.
 - 🎓 **Ph.D.** and **M.Sc.** in Informatics and Knowledge Management (UNINOVE), **MBA** in Digital Forensics, **MBIS** in Information Security.
 - 🔬 Professor at **UNINOVE** and guest professor in the Data Engineering MBA at **Mackenzie**.
 
