@@ -21,26 +21,6 @@ Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**,
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## 🔬 Pesquisa e publicações
-
-<p>
-  <a href="https://scholar.google.com/citations?user=f7uR-HYAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-24292f?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://www.researchgate.net/profile/Joao-Evangelista-3"><img src="https://img.shields.io/badge/ResearchGate-24292f?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57208888720"><img src="https://img.shields.io/badge/Scopus-24292f?style=for-the-badge&logo=elsevier&logoColor=white" alt="Scopus"></a>
-  <a href="https://www.webofscience.com/wos/author/record/HGD-6604-2022"><img src="https://img.shields.io/badge/Web%20of%20Science-24292f?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science"></a>
-  <a href="https://openalex.org/authors/A5082490461"><img src="https://img.shields.io/badge/OpenAlex-24292f?style=for-the-badge&logo=openaccess&logoColor=white" alt="OpenAlex"></a>
-</p>
-
-| 📄 Publicação | 📚 Veículo | 📅 Ano |
-|---|---|:---:|
-| [Detecção de fraudes em transações com cartão de crédito](https://doi.org/10.33448/rsd-v15i8.51608) | Research, Society and Development | 2026 |
-| [Google Hacking Database Attributes Enrichment and Conversion to Enable the Application of Machine Learning Techniques](https://doi.org/10.17485/IJST/V16I42.1799) | Indian Journal of Science and Technology | 2023 |
-| Abordagem de OSINT com Mapas Auto-Organizáveis de Kohonen e PLN para Execução Automática de Dorks | RISTI | 2023 |
-| [Systematic Literature Review to Investigate the Application of OSINT with Artificial Intelligence](https://doi.org/10.1080/19361610.2020.1761737) | Journal of Applied Security Research | 2020 |
-| [Classification of Web History Tools Through Web Analysis](https://doi.org/10.1007/978-3-030-22351-9_18) | Lecture Notes in Computer Science (Springer) | 2019 |
-
-🧾 **Registro de software:** DOSNLP – Dork Segmentation with NLP (INPI, BR512023002100-8)
-
 <img src="./assets/divider.svg" width="100%" alt="">
 
 ## 🛠️ Tecnologias e skills
