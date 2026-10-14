@@ -14,6 +14,7 @@
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="">
+<img src="./assets/divider.svg" width="100%" alt="">
 
 ## 👨🏻‍💻 Sobre mim
 
@@ -21,11 +22,9 @@ Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**,
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-<img src="./assets/divider.svg" width="100%" alt="">
+## 🛠️ Skills
 
-## 🛠️ Tecnologias e skills
-
-**Nuvem**<br>
+**☁️ Cloud**<br>
 ![AWS](https://img.shields.io/badge/AWS-24292f?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-24292f?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-24292f?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -54,13 +53,6 @@ Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**,
 ![Shell](https://img.shields.io/badge/Shell%20Script-24292f?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-24292f?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-24292f?style=for-the-badge&logo=git&logoColor=white)
-
-### 📚 Aprendizados
-
-- 🔭 Estudando segurança adversarial de IA, AI red & blue teaming e segurança de RAG e LLMs
-- ☁️ Me preparando para a certificação AWS Certified Developer – Associate
-- ✍️ Escrevendo sobre segurança em nuvem e IA no [LinkedIn](https://www.linkedin.com/in/jrafa1607/)
-- 🧑‍🏫 Mentorando alunos de mestrado e doutorado no PPGI da UNINOVE
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
