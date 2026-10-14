@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**, onde cuido da segurança de nuvem e de IA em um ambiente Multicloud com: controles para LLMs, agentes, RAG e Copilot, Zero Trust, CNAPP e modelos de machine learning para prevenção a fraudes. Sou **doutor e mestre em Informática e Gestão do Conhecimento** pela UNINOVE, com **mais de 25 trabalhos publicados** sobre IA aplicada à segurança.
+Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**, onde cuido da segurança de nuvem e de IA em um ambiente Multicloud com: controles para LLMs, agentes, RAGs, Zero Trust, CNAPP e modelos de Machine Learning para prevenção a fraudes. Sou **Doutor e Mestre em Informática e Gestão do Conhecimento** pela UNINOVE, com **mais de 25 trabalhos publicados** sobre IA aplicada à segurança.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -31,7 +31,7 @@ Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**,
 ![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-24292f?style=for-the-badge&logo=huawei&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-24292f?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Segurança**<br>
+**🔐 Segurança**<br>
 ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-24292f?style=for-the-badge)
 ![IAM](https://img.shields.io/badge/IAM%20%26%20PAM-24292f?style=for-the-badge)
 ![CNAPP](https://img.shields.io/badge/CNAPP%20%2F%20CSPM-24292f?style=for-the-badge)
@@ -39,14 +39,14 @@ Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**,
 ![AppSec](https://img.shields.io/badge/SAST%20%7C%20DAST%20%7C%20SCA-24292f?style=for-the-badge&logo=owasp&logoColor=white)
 ![GRC](https://img.shields.io/badge/Risk%20%26%20Compliance-24292f?style=for-the-badge)
 
-**IA e dados**<br>
+**🤖 IA e dados**<br>
 ![Python](https://img.shields.io/badge/Python-24292f?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-24292f?style=for-the-badge&logo=r&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-24292f?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-24292f?style=for-the-badge)
 ![LLM Security](https://img.shields.io/badge/LLM%20%26%20RAG%20Security-24292f?style=for-the-badge)
 
-**Automação e DevSecOps**<br>
+**♾️ Automação e DevSecOps**<br>
 ![Terraform](https://img.shields.io/badge/Terraform-24292f?style=for-the-badge&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-24292f?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-24292f?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -68,5 +68,3 @@ Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**,
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="">
-
-<p align="center"><sub>📫 Vamos conversar? Me chame no <a href="https://www.linkedin.com/in/jrafa1607/">LinkedIn</a>.</sub></p>
