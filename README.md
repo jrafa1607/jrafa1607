@@ -17,46 +17,7 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist no Grupo Amil**, onde cuido da segurança de nuvem e de IA em um ambiente de saúde com **mais de 80 mil usuários**: controles para LLMs, agentes, RAG e Copilot, Zero Trust, CNAPP e modelos de machine learning para prevenção a fraudes.
-
-Antes, atuei por mais de cinco anos na **Claro Brasil** (via Global Hitss), de suporte e DevOps a segurança em nuvem, em um ambiente com **mais de 150 contas AWS** e **mais de 50 projetos GCP**: landing zones com Terraform e CloudFormation, guardrails preventivos em todas as contas, IAM com Zero Trust e DevSecOps.
-
-Sou **doutor e mestre em Informática e Gestão do Conhecimento** pela UNINOVE, com **mais de 25 trabalhos publicados** sobre IA aplicada à segurança, e professor na **UNINOVE** e no MBA em Engenharia de Dados do **Mackenzie**.
-
-| 🎓 Formação | 🖥️ Atuação | 🌱 Hoje |
-|---|---|---|
-| Doutorado em Informática — UNINOVE | Segurança multicloud — Claro Brasil | DataSecOps Specialist — Grupo Amil |
-| Mestrado em Informática — UNINOVE | DevOps e IaC — Claro Brasil | Professor — UNINOVE |
-| MBA em Informática Forense — IPOG | Infraestrutura de TI — Centro Paula Souza | Professor convidado — Mackenzie |
-| MBIS em Segurança da Informação — UNINOVE | Pesquisa em IA e segurança | Revisor de periódicos científicos |
-
-### 🏫 Educação
-
-- 🎓 Doutorado em Informática e Gestão do Conhecimento — **UNINOVE** *(2024)*
-- 🎓 Mestrado em Informática e Gestão do Conhecimento — **UNINOVE** *(2020)*
-- 🎓 MBA em Informática Forense — **IPOG** *(2022)*
-- 🎓 MBIS em Segurança da Informação — **UNINOVE** *(2018)*
-- 🎓 Tecnólogo em Gestão da Tecnologia da Informação — **UNINOVE** *(2016)*
-
-### 🖥️ Experiência
-
-```
-DataSecOps Specialist                           Grupo Amil                       2026 – hoje
-Professor Convidado (MBA Eng. de Dados)         Mackenzie                        2026 – hoje
-Professor de Ensino Superior                    UNINOVE                          2023 – hoje
-Especialista em Segurança da Informação I       Claro Brasil (via Global Hitss)  2023 – 2026
-Analista DevOps I                               Claro Brasil (via Global Hitss)  2021 – 2023
-Analista de Suporte à Aplicações I              Claro Brasil (via Global Hitss)  2020 – 2021
-Auxiliar Docente em Informática                 Centro Paula Souza               2016 – 2023
-```
-
-### 🏅 Certificações
-
-- 🏅 ISO/IEC 27001, 42001 e 27701 **Lead Auditor** — Mastermind Assurance
-- 🏅 **Fellow** of Management Systems Auditing — Mastermind Assurance
-- 🏅 Segurança de IA e LLMs (CAISR, CLLMSE e CLLMSP) — Red Team Leaders
-- 🏅 Fortinet Certified Associate in Cybersecurity — Fortinet
-- 🔗 [Todas as credenciais verificáveis no Credly](https://www.credly.com/users/jrafa1607)
+Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**, onde cuido da segurança de nuvem e de IA em um ambiente Multicloud com: controles para LLMs, agentes, RAG e Copilot, Zero Trust, CNAPP e modelos de machine learning para prevenção a fraudes. Sou **doutor e mestre em Informática e Gestão do Conhecimento** pela UNINOVE, com **mais de 25 trabalhos publicados** sobre IA aplicada à segurança.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
