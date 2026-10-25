@@ -62,16 +62,6 @@ Possuo certificações de cibersegurança (Lead Auditor ISO/IEC 27001, 42001 e 2
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jrafa1607/jrafa1607/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%">
-</p>
-
-<sub>Gerado automaticamente pelo GitHub Action <code>platane/snk</code> — veja a seção <strong>Como ativar</strong> abaixo.</sub>
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
 ### 📊 GitHub Stats
 
 <p align="center">
