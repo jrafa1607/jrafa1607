@@ -18,7 +18,13 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Trabalho com segurança em nuvem desde 2020. Hoje sou **DataSecOps Specialist**, onde cuido da segurança de nuvem e de IA em um ambiente Multicloud com: controles para LLMs, agentes, RAGs, Zero Trust, CNAPP e modelos de Machine Learning para prevenção a fraudes. Sou **Doutor e Mestre em Informática e Gestão do Conhecimento** pela UNINOVE, com **mais de 25 trabalhos publicados** sobre IA aplicada à segurança.
+Especialista e arquiteto de segurança em nuvem e IA com mais de 6 anos de experiência em ambientes multicloud (AWS, Azure, GCP, Huawei Cloud e OCI) em grandes empresas de telecomunicações e saúde. Atuei em projetos de DevSecOps, IAM, IaC, Zero Trust, postura (CNAPP, CSPM), CTI, OSINT, risco e compliance (ISO 27001, NIST, CIS, LGPD e TPRM) e DataSecOps (Data Science & Engineering, Inteligência Artificial, AI Security, Guardrails, LLM, Agent & RAG Security). Integrei times multidisciplinares (CCoE, Operações, Infraestrutura e Engenharia) e atualmente como DataSecOps Specialist, construo modelos de Machine Learning (ML) e outras soluções de segurança para times de prevenção a fraudes, defensive e offensive security.
+
+Doutor e mestre em informática e gestão do conhecimento pela UNINOVE, com MBA em informática forense e MBIS em segurança da informação. No doutorado, pesquisei técnicas computacionais aplicadas à forense digital para detectar evidências de pornografia infantojuvenil em imagens digitais. No mestrado, desenvolvi uma abordagem de OSINT com Redes Neurais Artificiais e Processamento de Linguagem Natural para execução automática de Google Dorks. 
+
+Professor de ensino superior (UNINOVE, Mackenzie) e pesquisador das áreas: Cybersecurity, Computer Vision, DevSecOps, Digital Forensics, Pentest, OSINT, DataSecOps, Artificial Intelligence, AI Agents, Data Science & Engineering, Machine Learning, NLP, LLMs, RAGs e GenAI. Tenho mais de 25 trabalhos publicados em periódicos e congressos nacionais e internacionais, incluindo: Lecture Notes in Computer Science (Springer), Journal of Applied Security Research e RISTI (Revista Ibérica de Sistemas e Tecnologias de Informação).
+
+Possuo certificações de cibersegurança (Lead Auditor ISO/IEC 27001, 42001 e 27701) e de segurança de IA e LLMs (CAISR, CLLMSE e CLLMSP). Sou revisor de periódicos (IEEE Latin America Transactions, Intelligence and National Security) e membro de comitês científicos de conferências internacionais de IA, cibersegurança, nuvem e dados (MICRADS, ACDSA, MLT, ICCIoT).
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
