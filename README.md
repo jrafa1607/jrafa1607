@@ -38,12 +38,11 @@ Possuo certificações de cibersegurança (Lead Auditor ISO/IEC 27001, 42001 e 2
 
 **🔐 Security**<br>
 ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-0d1124?style=for-the-badge&labelColor=0d1124&color=0d1124&logoColor=ff4fd8)
-![IAM](https://img.shields.io/badge/IAM%20%26%20PAM-0d1124?style=for-the-badge&logoColor=ff4fd8)
+![IAM](https://img.shields.io/badge/IAM-0d1124?style=for-the-badge&logoColor=ff4fd8)
 ![CNAPP](https://img.shields.io/badge/CNAPP%20%2F%20CSPM-0d1124?style=for-the-badge&logoColor=ff4fd8)
 ![SIEM](https://img.shields.io/badge/SIEM-0d1124?style=for-the-badge&logoColor=ff4fd8)
 ![AppSec](https://img.shields.io/badge/SAST%20%7C%20DAST%20%7C%20SCA-0d1124?style=for-the-badge&logo=owasp&logoColor=ff4fd8)
 ![GRC](https://img.shields.io/badge/Risk%20%26%20Compliance-0d1124?style=for-the-badge&logoColor=ff4fd8)
-![Well-Architected](https://img.shields.io/badge/AWS%20Well--Architected-0d1124?style=for-the-badge&logo=amazonwebservices&logoColor=ff4fd8)
 
 **🤖 AI & Data**<br>
 ![Python](https://img.shields.io/badge/Python-0d1124?style=for-the-badge&logo=python&logoColor=ff8a3d)
