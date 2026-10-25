@@ -27,30 +27,7 @@ Possuo certificações de cibersegurança (Lead Auditor ISO/IEC 27001, 42001 e 2
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## 📌 Featured Repositories
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [AI_Security](https://github.com/jrafa1607/AI_Security)
-Notebooks reproduzíveis (Google Colab) sobre segurança prática de IA e LLMs, mapeados ao **OWASP Top 10 for LLM Applications**: prompt injection, guardrails, controle de acesso em RAG, privacy & data minimization, data poisoning, **adversarial attacks** e model extraction/inversion.
-
-`Python` `NumPy` `LLM Security` `OWASP`
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ [AWS_Automations](https://github.com/jrafa1607/AWS_Automations)
-Scripts, comandos e automações para gestão de infraestrutura AWS: backup, agendamento e manutenção de recursos em ambientes multi-account.
-
-`Shell Script` `AWS`
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" alt="">
+---
 
 ## 🛠️ Skills
 
