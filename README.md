@@ -27,8 +27,6 @@ Possuo certificações de cibersegurança (Lead Auditor ISO/IEC 27001, 42001 e 2
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
----
-
 ## 🛠️ Skills
 
 **☁️ Cloud**<br>
