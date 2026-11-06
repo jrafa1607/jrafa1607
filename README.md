@@ -2,8 +2,8 @@
   <img src="./assets/header.svg" alt="Olá, eu sou o João Rafael!" width="100%">
 </p>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9B6BFF&center=true&vCenter=true&width=700&lines=Cloud+%26+AI+Security+Architect;Ph.D.+em+Inform%C3%A1tica+e+Gest%C3%A3o+do+Conhecimento;Professor+e+Pesquisador+em+IA+e+Seguran%C3%A7a" alt="Typing SVG"> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9B6BFF&center=true&vCenter=true&width=700&lines=DataSecOps+Specialist;Cloud%2C+Data+%26+AI+Security+Architect;Ph.D.+in+Informatics+and+Knowledge+Management;Professor+and+Researcher+in+AI+and+Security" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## 👨🏻‍💻 Sobre mim
+## 👨🏻‍💻 About me
 
-Especialista e arquiteto de segurança em nuvem e IA com mais de 6 anos de experiência em ambientes multicloud (AWS, Azure, GCP, Huawei Cloud e OCI) em grandes empresas de telecomunicações e saúde. Atuei em projetos de DevSecOps, IAM, IaC, Zero Trust, postura (CNAPP, CSPM), CTI, OSINT, risco e compliance (ISO 27001, NIST, CIS, LGPD e TPRM) e DataSecOps (Data Science & Engineering, Inteligência Artificial, AI Security, Guardrails, LLM, Agent & RAG Security). Integrei times multidisciplinares (CCoE, Operações, Infraestrutura e Engenharia) e atualmente como DataSecOps Specialist, construo modelos de Machine Learning (ML) e outras soluções de segurança para times de prevenção a fraudes, defensive e offensive security.
+DataSecOps Specialist and cloud, data and AI security architect, with more than 6 years of experience in multicloud environments (AWS, Azure, GCP, Huawei Cloud and OCI) at large telecommunications and healthcare companies. I have worked on projects in DevSecOps, IaC, IAM, Zero Trust, security posture (CNAPP, CSPM and DSPM), CTI, OSINT, risk and compliance (ISO 27001, NIST, CIS, LGPD and TPRM), fraud prevention and data security (privacy, data science and engineering, artificial intelligence, AI security, and LLM, agent and RAG security). I have worked in multidisciplinary teams (CCoE, Operations, Infrastructure and Engineering) and, currently as a DataSecOps Specialist, I build solutions for business, architecture, engineering, fraud prevention, and defensive and offensive security teams (Blue Team and Red Team).
 
-Doutor e mestre em informática e gestão do conhecimento pela UNINOVE, com MBA em informática forense e MBIS em segurança da informação. No doutorado, pesquisei técnicas computacionais aplicadas à forense digital para detectar evidências de pornografia infantojuvenil em imagens digitais. No mestrado, desenvolvi uma abordagem de OSINT com Redes Neurais Artificiais e Processamento de Linguagem Natural para execução automática de Google Dorks.
+PhD and MSc in Informatics and Knowledge Management from UNINOVE, with an MBA in Digital Forensics and an MBIS in Information Security. In my PhD, I researched computational techniques applied to digital forensics to detect evidence of child sexual abuse material in digital images. In my master's degree, I developed an OSINT approach using artificial neural networks and natural language processing for the automated execution of Google Dorks.
 
-Professor de ensino superior (UNINOVE, Mackenzie) e pesquisador das áreas: Cybersecurity, Computer Vision, DevSecOps, Digital Forensics, Pentest, OSINT, DataSecOps, Artificial Intelligence, AI Agents, Data Science & Engineering, Machine Learning, NLP, LLMs, RAGs e GenAI. Tenho mais de 25 trabalhos publicados em periódicos e congressos nacionais e internacionais, incluindo: Lecture Notes in Computer Science (Springer), Journal of Applied Security Research e RISTI (Revista Ibérica de Sistemas e Tecnologias de Informação).
+University professor (UNINOVE and Mackenzie) and researcher in cybersecurity, digital forensics, OSINT, penetration testing, machine learning, data science, artificial intelligence, natural language processing and computer vision. I have more than 25 papers published in national and international journals and conferences, including Lecture Notes in Computer Science (Springer), Journal of Applied Security Research and RISTI (Iberian Journal of Information Systems and Technologies).
 
-Possuo certificações de cibersegurança (Lead Auditor ISO/IEC 27001, 42001 e 27701) e de segurança de IA e LLMs (CAISR, CLLMSE e CLLMSP). Sou revisor de periódicos (IEEE Latin America Transactions, Intelligence and National Security) e membro de comitês científicos de conferências internacionais de IA, cibersegurança, nuvem e dados (MICRADS, ACDSA, MLT, ICCIoT).
+I hold cybersecurity certifications (ISO/IEC 27001, 42001 and 27701 Lead Auditor), AI and LLM security certifications (CAISR, CLLMSE and CLLMSP) and a fraud prevention certification (COFPS). I am a reviewer for journals (IEEE Latin America Transactions and Intelligence and National Security) and a member of scientific committees of international conferences (MICRADS and ACDSA).
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
