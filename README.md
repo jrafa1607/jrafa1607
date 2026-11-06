@@ -43,3 +43,5 @@ I hold cybersecurity certifications (ISO/IEC 27001, 42001 and 27701 Lead Auditor
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="">
+
+---
