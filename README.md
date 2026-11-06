@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Olá, eu sou o João Rafael!" width="100%">
+  <img src="./assets/header.svg" alt="Hello, I'm João Rafael!" width="100%">
 </p>
 
 <p align="center">
