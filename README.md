@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jrafa1607/"><img src="https://img.shields.io/badge/LinkedIn-0d1124?style=for-the-badge&logo=linkedin&logoColor=46e3ff" alt="LinkedIn"></a>
   <a href="https://www.credly.com/users/jrafa1607"><img src="https://img.shields.io/badge/Credly-0d1124?style=for-the-badge&logo=credly&logoColor=ff4fd8" alt="Credly"></a>
+  <a href="https://scholar.google.com.br/citations?user=f7uR-HYAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0d1124?style=for-the-badge&logo=googlescholar&logoColor=46e3ff" alt="Google Scholar"></a>
+  <a href="https://www.researchgate.net/profile/Joao-Rafael-Goncalves-Evangelista"><img src="https://img.shields.io/badge/ResearchGate-0d1124?style=for-the-badge&logo=researchgate&logoColor=ff4fd8" alt="ResearchGate"></a>
   <a href="https://orcid.org/0000-0003-3541-8354"><img src="https://img.shields.io/badge/ORCID-0d1124?style=for-the-badge&logo=orcid&logoColor=9b6bff" alt="ORCID"></a>
   <a href="http://lattes.cnpq.br/2685037621033048"><img src="https://img.shields.io/badge/Lattes-0d1124?style=for-the-badge&logo=bookstack&logoColor=ff8a3d" alt="Lattes"></a>
 </p>
@@ -27,7 +29,9 @@ I hold cybersecurity certifications (ISO/IEC 27001, 42001 and 27701 Lead Auditor
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-### 📊 GitHub Stats
+<img src="./assets/divider.svg" width="100%" alt="">
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jrafa1607&show_icons=true&theme=transparent&border_color=9b6bff&icon_color=46e3ff&title_color=9b6bff" alt="GitHub stats" height="165">
