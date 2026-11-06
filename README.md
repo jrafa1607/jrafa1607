@@ -27,40 +27,6 @@ Possuo certificações de cibersegurança (Lead Auditor ISO/IEC 27001, 42001 e 2
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## 🛠️ Skills
-
-**☁️ Cloud**<br>
-![AWS](https://img.shields.io/badge/AWS-0d1124?style=for-the-badge&logo=amazonwebservices&logoColor=46e3ff)
-![Azure](https://img.shields.io/badge/Azure-0d1124?style=for-the-badge&logo=microsoftazure&logoColor=46e3ff)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0d1124?style=for-the-badge&logo=googlecloud&logoColor=46e3ff)
-![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-0d1124?style=for-the-badge&logo=huawei&logoColor=46e3ff)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-0d1124?style=for-the-badge&logo=oracle&logoColor=46e3ff)
-
-**🔐 Security**<br>
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-0d1124?style=for-the-badge&labelColor=0d1124&color=0d1124&logoColor=ff4fd8)
-![IAM](https://img.shields.io/badge/IAM-0d1124?style=for-the-badge&logoColor=ff4fd8)
-![CNAPP](https://img.shields.io/badge/CNAPP%20%2F%20CSPM-0d1124?style=for-the-badge&logoColor=ff4fd8)
-![SIEM](https://img.shields.io/badge/SIEM-0d1124?style=for-the-badge&logoColor=ff4fd8)
-![AppSec](https://img.shields.io/badge/SAST%20%7C%20DAST%20%7C%20SCA-0d1124?style=for-the-badge&logo=owasp&logoColor=ff4fd8)
-![GRC](https://img.shields.io/badge/Risk%20%26%20Compliance-0d1124?style=for-the-badge&logoColor=ff4fd8)
-
-**🤖 AI & Data**<br>
-![Python](https://img.shields.io/badge/Python-0d1124?style=for-the-badge&logo=python&logoColor=ff8a3d)
-![R](https://img.shields.io/badge/R-0d1124?style=for-the-badge&logo=r&logoColor=ff8a3d)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1124?style=for-the-badge&logo=scikitlearn&logoColor=ff8a3d)
-![NLP](https://img.shields.io/badge/NLP-0d1124?style=for-the-badge&logoColor=ff8a3d)
-![LLM Security](https://img.shields.io/badge/LLM%20%26%20RAG%20Security-0d1124?style=for-the-badge&logoColor=ff8a3d)
-
-**♾️ Automação e DevSecOps**<br>
-![Terraform](https://img.shields.io/badge/Terraform-0d1124?style=for-the-badge&logo=terraform&logoColor=9b6bff)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-0d1124?style=for-the-badge&logo=amazonwebservices&logoColor=9b6bff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1124?style=for-the-badge&logo=kubernetes&logoColor=9b6bff)
-![Shell](https://img.shields.io/badge/Shell%20Script-0d1124?style=for-the-badge&logo=gnubash&logoColor=9b6bff)
-![Linux](https://img.shields.io/badge/Linux-0d1124?style=for-the-badge&logo=linux&logoColor=9b6bff)
-![Git](https://img.shields.io/badge/Git-0d1124?style=for-the-badge&logo=git&logoColor=9b6bff)
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
 ### 📊 GitHub Stats
 
 <p align="center">
